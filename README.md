@@ -30,12 +30,12 @@ This project is a User Management System developed as part of a PHP development 
 
 2. **Configure the Environment**
 
-   - Visit to `config.php` it will create required database and tables.
+   - Visit to `setup.php` it will create required database and tables.
 
 3. **Set Up the Database**
 
    - Database will be created automatically.
-   - If you have created custom database then you must add details in `config.php` file.
+   - If you have created custom database then you must add details in `setup.php` and in `config.php` file.
 
 4. **Run the Application**
 
