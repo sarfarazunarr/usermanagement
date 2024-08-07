@@ -30,11 +30,9 @@ This project is a User Management System developed as part of a PHP development 
 
 2. **Configure the Environment**
 
-   - Visit to `setup.php` it will create required database and tables.
+   - First create a database using localhost/phpmyadmin with name `myusers` and then visit to `setup.php` it will create required tables.
 
 3. **Set Up the Database**
-
-   - Database will be created automatically.
    - If you have created custom database then you must add details in `setup.php` and in `config.php` file.
 
 4. **Run the Application**

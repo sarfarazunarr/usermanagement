@@ -2,6 +2,7 @@
 require 'config.php';
 
 try {
+
     // Create users table
     $pdo->exec("CREATE TABLE IF NOT EXISTS users (
         id INT AUTO_INCREMENT PRIMARY KEY,
